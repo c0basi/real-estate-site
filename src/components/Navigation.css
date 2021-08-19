@@ -1,0 +1,11 @@
+.navbar-brand .start {
+  font-weight: bold;
+  font-size: 24px;
+  color: #28a745;
+}
+
+.navbar-brand .end {
+  font-weight: bold;
+  font-size: 24px;
+  color: gray;
+}

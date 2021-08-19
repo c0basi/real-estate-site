@@ -1,0 +1,25 @@
+.header {
+  background-image: url("https://sbprojects.com.au/wp-content/uploads/2019/12/space-desk-workspace-coworking.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  margin-bottom: 10px;
+}
+
+.overlay {
+  position: absolute;
+  height: 600px;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(244, 244, 244, 0.747);
+  margin-bottom: 10px;
+}
+
+.description {
+  position: absolute;
+  top: 26.5%;
+  padding: 2em;
+  display: block;
+}

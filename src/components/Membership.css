@@ -1,0 +1,73 @@
+.Membership {
+  text-align: center;
+  padding: 8% 17%;
+}
+
+.table-title {
+  /*text-align: left;*/
+  padding: 10px 5px 0px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  /*text-decoration: italic;*/
+}
+
+.membership-section {
+  padding: 3%;
+}
+
+.membership-table-title {
+  border: 1px solid black;
+  border-bottom: 0px;
+}
+
+.membership-table {
+  border: 1px solid black;
+  padding: 3%;
+}
+
+.member-info {
+  text-align: left;
+}
+
+.member-edit-info {
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.membership-status {
+  font-weight: bold;
+}
+
+.payment-section {
+  padding: 4%;
+}
+
+.payment-table-title {
+  border: 1px solid black;
+  border-bottom: 0px;
+}
+
+.payment-table {
+  border: 1px solid black;
+  padding: 4%;
+  text-align: left;
+}
+
+.payment-info {
+  padding: 2%;
+}
+
+.form-star {
+  color: green;
+}
+
+.payment-btn {
+  padding: 2%;
+}
+
+.current-info {
+  text-align: left;
+  padding: 7% 12%;
+  font-size: 1.2rem;
+}
